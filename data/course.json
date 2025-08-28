@@ -52,8 +52,9 @@
   "extra_course_numbers": "",
   "primary_course_number": "RES.12-001",
   "learning_resource_types": [
-    "Online Textbook"
+    "Open Textbooks"
   ],
   "site_uid": "7393c607-af39-4dea-8e9e-3820b7a4a954",
-  "site_short_id": "res.12-001-fall-2024"
+  "site_short_id": "res.12-001-fall-2024",
+  "site_url_path": "courses/res-12-001-topics-in-fluid-dynamics-fall-2024"
 }
